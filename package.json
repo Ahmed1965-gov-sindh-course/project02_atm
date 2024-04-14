@@ -1,8 +1,9 @@
 {
-  "name": "project02_atm",
+  "name": "uf3sindh-project02-atm",
   "version": "1.0.0",
   "main": "atm.js",
   "type": "module",
+  "bin": "atm.js"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
